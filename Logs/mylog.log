@@ -1,0 +1,160 @@
+[INFO ] 2023-10-15 20:57:43.519 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-15 20:57:43.536 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-15 20:57:44.471 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-15 20:57:44.510 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-15 20:57:44.542 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-15 20:57:45.388 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-15 20:57:46.607 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-15 20:57:47.248 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-15 20:57:54.935 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-15 20:57:54.948 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-15 20:57:55.837 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-15 20:57:55.883 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-15 20:57:55.915 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-15 20:57:56.758 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-15 20:57:56.773 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-15 20:57:56.786 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 11:29:51.197 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 11:29:51.230 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 11:29:52.138 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 11:29:52.209 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 11:29:52.252 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 11:29:53.066 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 11:29:53.910 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 11:29:54.662 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 11:30:03.304 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 11:30:03.305 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 11:30:04.749 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 11:30:04.802 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 11:30:04.841 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 11:30:06.208 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 11:30:06.230 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 11:30:06.252 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 15:00:10.165 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:00:10.185 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 15:00:12.398 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:00:12.447 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:00:12.463 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:00:13.519 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:00:14.619 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 15:00:15.505 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 15:00:21.174 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:00:21.175 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 15:00:22.064 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:00:22.099 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:00:22.120 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:00:23.043 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:00:23.058 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 15:00:23.069 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 15:11:10.650 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:11:10.678 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 15:11:11.860 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:11:11.906 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:11:11.929 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:11:12.772 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:11:13.667 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 15:11:14.326 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 15:11:21.973 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:11:21.975 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 15:11:24.028 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:11:24.062 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:11:24.083 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:11:24.968 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:11:24.989 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 15:11:24.989 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 15:57:42.969 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:57:42.986 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 15:57:44.212 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:57:44.247 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:57:44.273 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:57:45.327 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:57:46.553 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 15:57:47.314 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 15:57:54.441 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:57:54.443 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 15:57:55.471 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:57:55.502 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:57:55.528 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:57:56.592 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:57:56.606 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 15:57:56.621 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 15:59:47.380 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:59:47.398 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 15:59:48.314 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:59:48.347 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:59:48.380 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:59:49.537 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:59:50.425 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 15:59:51.211 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 15:59:58.164 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 15:59:58.166 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 15:59:59.070 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 15:59:59.106 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 15:59:59.128 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 15:59:59.981 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 15:59:59.995 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 16:00:00.014 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 16:04:42.533 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:04:42.553 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 16:04:44.445 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:04:44.479 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:04:44.505 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:04:45.578 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:04:47.755 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 16:04:48.602 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 16:04:56.849 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:04:56.851 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 16:04:57.764 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:04:57.800 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:04:57.822 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:04:58.687 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:04:58.702 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 16:04:58.716 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 16:05:20.785 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:05:20.798 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 16:05:21.841 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:05:21.882 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:05:21.905 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:05:22.850 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:05:23.751 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 16:05:24.400 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 16:05:31.799 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:05:31.800 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 16:05:32.785 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:05:32.816 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:05:32.847 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:05:33.732 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:05:33.745 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 16:05:33.757 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 16:19:20.567 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:19:20.578 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 16:19:21.514 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:19:21.552 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:19:21.578 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:19:22.427 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:19:23.524 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 16:19:24.163 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 16:19:32.139 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:19:32.140 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 16:19:33.187 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:19:33.218 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:19:33.238 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:19:34.073 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:19:34.093 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 16:19:34.104 [main] MyStoreV1 - **********TestCase Verify Login ends**********
+[INFO ] 2023-10-16 16:19:49.348 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:19:49.360 [main] MyStoreV1 - **********TestCase Search Product started**********
+[INFO ] 2023-10-16 16:19:50.184 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:19:50.229 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:19:50.251 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:19:51.625 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:19:52.501 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-10-16 16:19:53.134 [main] MyStoreV1 - **********TestCase Search Product ends**********
+[INFO ] 2023-10-16 16:20:00.025 [main] MyStoreV1 - **********url opened**********
+[INFO ] 2023-10-16 16:20:00.026 [main] MyStoreV1 - **********TestCase Verify Login starts**********
+[INFO ] 2023-10-16 16:20:00.933 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2023-10-16 16:20:00.968 [main] MyStoreV1 - Entered email address
+[INFO ] 2023-10-16 16:20:00.991 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-16 16:20:01.849 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2023-10-16 16:20:01.852 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2023-10-16 16:20:01.867 [main] MyStoreV1 - **********TestCase Verify Login ends**********

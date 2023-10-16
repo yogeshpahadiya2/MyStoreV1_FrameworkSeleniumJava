@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T16:19:42 IST" name="Suite" finished-at="2023-10-16T16:20:02 IST" duration-ms="20472">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T16:19:42 IST" name="Test" finished-at="2023-10-16T16:20:02 IST" duration-ms="20472">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@6379eb]" started-at="2023-10-16T16:19:42 IST" name="setup" finished-at="2023-10-16T16:19:49 IST" duration-ms="6971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@6379eb]" started-at="2023-10-16T16:19:49 IST" name="verifySearchProduct" finished-at="2023-10-16T16:19:53 IST" duration-ms="3775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@6379eb]" started-at="2023-10-16T16:19:53 IST" name="tearDown" finished-at="2023-10-16T16:19:53 IST" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+      <class name="com.mystore.testcases.TC_MyAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@5b239d7d]" started-at="2023-10-16T16:19:53 IST" name="setup" finished-at="2023-10-16T16:20:00 IST" duration-ms="6056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@5b239d7d]" started-at="2023-10-16T16:20:00 IST" name="verifyLogin" finished-at="2023-10-16T16:20:01 IST" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@5b239d7d]" started-at="2023-10-16T16:20:01 IST" name="tearDown" finished-at="2023-10-16T16:20:02 IST" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_MyAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
